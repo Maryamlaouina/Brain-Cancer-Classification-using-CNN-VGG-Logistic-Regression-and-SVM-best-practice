@@ -4,5 +4,5 @@
 <img width="917" alt="7" src="https://github.com/Maryamlaouina/Brain-Cancer-Classification-using-CNN-VGG-Logistic-Regression-and-SVM-best-practice/assets/103520731/07840337-5f03-45fd-b913-093093714ca4">
 
 # About Dataset
-(you can access dataset via this link)  [https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri]
+you can access dataset via this link https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 <img width="919" alt="4" src="https://github.com/Maryamlaouina/Brain-Cancer-Classification-using-CNN-VGG-Logistic-Regression-and-SVM-best-practice/assets/103520731/fd7fde3f-ed89-4c94-bddd-82474f770f77">
